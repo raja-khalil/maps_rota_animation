@@ -84,7 +84,7 @@ No painel do Render, adicione:
 ### Após o Deploy:
 
 1. **Acesse** [Google Cloud Console](https://console.cloud.google.com/apis/credentials)
-2. **Edite** sua chave de API: `AIzaSyCFUIkhN_hx7LhwlRWnqj_uaq4KejUSBBs`
+2. **Edite** sua chave de API: 
 3. **Adicione** nas restrições de HTTP referrer:
 ```
 https://seu-app-nome.onrender.com/*
